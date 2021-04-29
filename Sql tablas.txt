@@ -1,0 +1,58 @@
+
+Roles{
+idRol (int) 
+Descripcion (nvarchar) 
+}
+
+Usuarios{
+idUser (int),
+documento (nvarchar),
+username (nvarchar)
+contrasena (nvarchar(500),
+idrol @(int)
+}
+
+TipoRemDes{
+idTipoRemDes (int),
+Descripcion (nvarchar)
+}
+
+ RemDes{
+idremitente (int),
+documento (nvarchar),
+nombres (nvarchar),
+apellidos  (nvarchar),
+direccion (nvarchar),
+telefono (nvarchar),
+idTipoRemDes @(int),
+}
+
+
+Correspondencia{
+idCorrespondencia (nvarchar),
+idRemitente @(int),
+idDestinatario @(int),
+rutaArchivo (nvarchar),
+observacion (nvarchar),
+idusuariocreacion @(int),
+fechaCreacion datetime,
+idusuarioactualizacion @(int),
+fechaactualizacion datetime
+}
+Auditoria{
+id (int),
+idRemitente (int),
+idDestinatario (int),
+rutaArchivo (nvarchar),
+observacion (nvarchar),
+idusuariocreacion (int),
+fechaCreacion (datetime),
+idusuarioactualizacion (int),
+fechaactualizacion (datetime),
+fecha (datetime),
+typeMov  (VARCHAR)
+}
+
+
+
+
