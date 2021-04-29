@@ -166,7 +166,7 @@ declare @numero int;
 	where idCorrespondencia like 'CI%'	ORDER by idCorrespondencia DESC);
 		if	@cadena is not null
 		begin
-			set @numero = cast( SUBSTRING(@cadena, 3, 6) as int);
+			set @numero = cast( SUBSTRING(@cadena, 3, 8) as int);
 			set @numero =  @numero + 1;
 			set @idcadena = 'CI'+RIGHT('00000000' + Ltrim(Rtrim(@numero)),8)
 
@@ -182,7 +182,7 @@ declare @numero int;
 		where idCorrespondencia like 'CE%'	ORDER by idCorrespondencia DESC);
 		if	@cadena is not null
 		begin
-			set @numero = cast( SUBSTRING(@cadena, 3, 6) as int);
+			set @numero = cast( SUBSTRING(@cadena, 3, 8) as int);
 			set @numero =  @numero + 1;
 			set @idcadena = 'CE'+RIGHT('00000000' + Ltrim(Rtrim(@numero)),8)
 
@@ -223,7 +223,8 @@ end
 
 
 
-exec spAddCorrespondencia 1, 2, 'C;//jdhfjhdjfh/iouiou', 'prueba 2', 1,2
+exec spAddCorrespondencia 1, 2, 'C;//jdhfjhdjfh/iouiou', 'prueba 2', 1,1
+
 
 
 
@@ -243,9 +244,6 @@ inner join [dbo].[RemDes] d on c.idDestinatario = d.idremitente
 
 
 
-
-
 select * from vwCorrespondencia where fechaCreacion < Cast( '2021-04-28' as datetime)
 
 	  
-

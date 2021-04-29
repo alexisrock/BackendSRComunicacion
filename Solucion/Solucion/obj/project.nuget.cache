@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ObrcXNQ/LbyrVmr3f0oljawyIBDYjREvXfXfZzQbHt4wiQtRAizr4TEZ0WnzenSIyRfZZ1H9X4PWrlXJ1rYyAg==",
+  "dgSpecHash": "7VwMFDRqd7PycXDyVvU1Vxikfdjxkufwwjr/bqtXzq95/ty9iV+5tBY2A0eD0iadvlI5yq/fHeWIHt0IJMlSRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO TINY\\source\\repos\\Solucion\\Solucion\\Solucion.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO TINY\\Documents\\Proyectos Independientes\\C#\\BackendSRComunicacion\\Solucion\\Solucion\\Solucion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO TINY\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO TINY\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

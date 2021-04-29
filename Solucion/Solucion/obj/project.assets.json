@@ -5990,11 +5990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO TINY\\source\\repos\\Solucion\\Solucion\\Solucion.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO TINY\\Documents\\Proyectos Independientes\\C#\\BackendSRComunicacion\\Solucion\\Solucion\\Solucion.csproj",
       "projectName": "Solucion",
-      "projectPath": "C:\\Users\\LENOVO TINY\\source\\repos\\Solucion\\Solucion\\Solucion.csproj",
+      "projectPath": "C:\\Users\\LENOVO TINY\\Documents\\Proyectos Independientes\\C#\\BackendSRComunicacion\\Solucion\\Solucion\\Solucion.csproj",
       "packagesPath": "C:\\Users\\LENOVO TINY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO TINY\\source\\repos\\Solucion\\Solucion\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO TINY\\Documents\\Proyectos Independientes\\C#\\BackendSRComunicacion\\Solucion\\Solucion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO TINY\\AppData\\Roaming\\NuGet\\NuGet.Config",

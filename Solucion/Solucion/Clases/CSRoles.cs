@@ -9,7 +9,7 @@ namespace Solucion.Clases
 {
     public class CSRoles
     {
-        BDComunicationContext dbcontext = new BDComunicationContext();
+    private   BDComunicationContext dbcontext = new BDComunicationContext();
 
 
 

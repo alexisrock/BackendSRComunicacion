@@ -10,7 +10,7 @@ namespace Solucion.Clases
     public class CSTipoRemDes
     {
 
-        BDComunicationContext dbcontext = new BDComunicationContext();
+      private  BDComunicationContext dbcontext = new BDComunicationContext();
 
 
         public List<ITipoRemDes> GetAll()
