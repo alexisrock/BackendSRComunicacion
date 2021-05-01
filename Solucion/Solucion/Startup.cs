@@ -61,12 +61,18 @@ namespace Solucion
                 app.UseDeveloperExceptionPage();
             }
 
+
+            app.UseCors(x => x
+            .AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader());
+
             app.UseHttpsRedirection();
 
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Foo API V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "SRComunicaciones");
             });
 
             app.UseRouting();

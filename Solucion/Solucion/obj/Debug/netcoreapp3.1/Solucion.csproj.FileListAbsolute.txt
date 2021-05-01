@@ -66,14 +66,6 @@ C:\Users\LENOVO TINY\source\repos\Solucion\Solucion\bin\Debug\netcoreapp3.1\Micr
 C:\Users\LENOVO TINY\source\repos\Solucion\Solucion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\LENOVO TINY\source\repos\Solucion\Solucion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\LENOVO TINY\source\repos\Solucion\Solucion\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.csprojAssemblyReference.cache
-C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.AssemblyInfoInputs.cache
-C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.AssemblyInfo.cs
-C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.dll
-C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.pdb
 C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -129,8 +121,16 @@ C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion
 C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.csprojAssemblyReference.cache
+C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.AssemblyInfoInputs.cache
+C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.AssemblyInfo.cs
+C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.RazorTargetAssemblyInfo.cache
 C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.csproj.CopyComplete
 C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\staticwebassets\Solucion.StaticWebAssets.Manifest.cache
 C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\staticwebassets\Solucion.StaticWebAssets.xml
+C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.dll
+C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.pdb
 C:\Users\LENOVO TINY\Documents\Proyectos Independientes\C#\BackendSRComunicacion\Solucion\Solucion\obj\Debug\netcoreapp3.1\Solucion.genruntimeconfig.cache

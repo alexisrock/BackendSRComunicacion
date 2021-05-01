@@ -25,6 +25,15 @@ namespace Solucion.Controllers
 
         }
 
+        [HttpGet("GetId/{id}")]
+        public IUsuarios GetId()
+        {
+            CSUsuario usuario = new CSUsuario();
+            return usuario.GetId();
+
+        }
+
+
 
         [HttpPost("Add")]
         public Response AddUsuario(IUsuarios user)

@@ -20,12 +20,35 @@ namespace Solucion.Clases
              username = x.Username,
              contrasena = x.Contrasena,
              documento = x.Documento,
-             idrol = x.Idrol            
+             idrol = x.Idrol ,
+             nombrerol = x.IdrolNavigation.Descripcion
             }).ToList();
 
             return ListUsuarios;
 
         }
+
+        public IUsuarios GetId()
+        {
+
+            var Usuarios = dbcontext.Usuarios.Select(x => new IUsuarios
+            {
+                idUser = x.IdUser,
+                username = x.Username,
+                contrasena = x.Contrasena,
+                documento = x.Documento,
+                idrol = x.Idrol,
+                nombrerol = x.IdrolNavigation.Descripcion
+            }).FirstOrDefault();
+
+            return Usuarios;
+
+        }
+
+
+
+
+
 
 
 

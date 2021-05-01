@@ -13,6 +13,7 @@ namespace Solucion.Interfaces
         public string username { get; set; }
         public string contrasena { get; set; }
         public int? idrol { get; set; }
+        public string nombrerol { get; set; }
 
 
     }
