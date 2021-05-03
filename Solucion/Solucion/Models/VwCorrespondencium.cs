@@ -15,5 +15,6 @@ namespace Solucion.Models
         public DateTime? FechaCreacion { get; set; }
         public string Remitente { get; set; }
         public string Destinatario { get; set; }
+        public string Documento { get; set; }
     }
 }

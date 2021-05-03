@@ -22,7 +22,8 @@ namespace Solucion.Clases
                     documento = x.Documento,
                     direccion = x.Direccion,
                     telefono = x.Telefono,
-                    idTipoRemDes = x.IdTipoRemDes
+                    idTipoRemDes = x.IdTipoRemDes,
+                    DescripcionTiporemdem = x.IdTipoRemDesNavigation.Descripcion
                 }).ToList();
 
             return List;

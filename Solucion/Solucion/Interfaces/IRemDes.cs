@@ -15,6 +15,8 @@ namespace Solucion.Interfaces
         public string direccion { get; set; }
         public string telefono { get; set; }
         public int? idTipoRemDes { get; set; }
+        public string DescripcionTiporemdem { get; set; }
+
 
     }
 }

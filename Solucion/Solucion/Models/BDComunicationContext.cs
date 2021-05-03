@@ -227,6 +227,11 @@ namespace Solucion.Models
                     .IsRequired()
                     .HasMaxLength(401);
 
+                entity.Property(e => e.Documento)
+                    .IsRequired()
+                    .HasMaxLength(200)
+                    .HasColumnName("documento");
+
                 entity.Property(e => e.FechaCreacion)
                     .HasColumnType("datetime")
                     .HasColumnName("fechaCreacion");

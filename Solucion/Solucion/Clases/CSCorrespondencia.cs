@@ -110,7 +110,8 @@ namespace Solucion.Clases
                 var obj = dbcontext.Correspondencia.Where(x => x.IdCorrespondencia == id).FirstOrDefault();
                 obj.IdDestinatario = correspondencia.idDestinatario;
                 obj.IdRemitente = correspondencia.idRemitente;
-                obj.RutaArchivo = correspondencia.rutaArchivo;
+                if(correspondencia.rutaArchivo!="") obj.RutaArchivo = correspondencia.rutaArchivo;
+
                 obj.Observacion = correspondencia.observacion;
                 obj.Idusuarioactualizacion = correspondencia.idusuarioactualizacion;
                 obj.Fechaactualizacion = DateTime.Now;

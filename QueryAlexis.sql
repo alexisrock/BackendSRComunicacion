@@ -237,6 +237,7 @@ Select  c.idCorrespondencia
       ,c.fechaCreacion     
 	  ,concat(r.nombres, ' ', r.apellidos) as Remitente
 	  ,concat(d.nombres, ' ', d.apellidos) as Destinatario
+	  ,d.documento
 from [Correspondencia] c 
 inner join [dbo].[RemDes] r on c.idRemitente = r.idremitente
 inner join [dbo].[RemDes] d on c.idDestinatario = d.idremitente
