@@ -16,4 +16,4 @@ La arquitectura de este aplicativo es MVC,.
 
 </p>
 <h2 align="left"> Version del aplicativo</h2>
-<p> V.0.0.1</p># BackendSRComunicacion
+<p> V.0.0.1</p>
